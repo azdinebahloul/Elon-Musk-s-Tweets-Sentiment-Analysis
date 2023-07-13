@@ -2,7 +2,7 @@
 
 
 ## Situation
-While searching for a dataset to practice new techniques, I came across the "Elon Musk's Tweets Dataset 2022" on Kaggle. This dataset caught my attention as it provided an opportunity to analyze and gain insights from Elon Musk's tweets.
+While exploring the portfolios of experienced data analysts, I came across their projects involving sentiment analysis. Inspired by their work, I decided to incorporate sentiment analysis into my own skill set. During my search for a suitable dataset to practice this technique, I discovered the "Elon Musk's Tweets Dataset 2022" on Kaggle.
 
 ## Task
 The goal of this project is to analyze Elon Musk's tweets from 2022 and answer several key questions related to tweet sentiment, tweet frequency, and the correlation between tweet sentiment and likes/retweets. By performing this analysis, I aim to enhance my skills in data analysis and utilize various Python libraries such as Pandas, NumPy, and Seaborn.
